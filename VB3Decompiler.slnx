@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="VB3Decompiler.Tests/VB3Decompiler.Tests.csproj" />
+  <Project Path="VB3Decompiler/VB3Decompiler.csproj" />
+</Solution>
